@@ -14,7 +14,7 @@ using DHT11, LM35 and DS1302 on a 16x2 LCD.
 | Component | Pin        |
 |-----------|------------|
 | DHT11 DATA | D2 + 10kΩ pull-up |
-| LM35 OUT  | A0         |
+| LM35 OUT  | A1         |
 | DS1302 CLK | D6        |
 | DS1302 DAT | D7        |
 | DS1302 RST | D8        |
