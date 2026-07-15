@@ -27,5 +27,4 @@ using DHT11, LM35 and DS1302 on a 16x2 LCD.
 - Rtc by Makuna
 
 ## Notes
-- LM35 readings averaged over 10 samples for accuracy
 - DS1302 keeps time even when Arduino is powered off
