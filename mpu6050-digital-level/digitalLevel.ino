@@ -19,9 +19,9 @@ float angleX = 0, angleY = 0;
 unsigned long lastTime = 0;
 
 // Thresholds
-const float SEUIL_GREEN  = 30.0;
-const float SEUIL_JAUNE = 45.0;
-const float SEUIL_RED = 60.0;
+const float SEUIL_GREEN  = 25.0;
+const float SEUIL_JAUNE = 35.0;
+const float SEUIL_RED = 40.0;
 
 float offsetX = 0, offsetY = 0;
 float offsetGyroX = 0, offsetGyroY = 0;
