@@ -37,10 +37,10 @@ accelerometer and gyroscope offsets.
 ## Thresholds
 | Angle     | LED   | Status    |
 |-----------|-------|-----------|
-| < 30°      | Green | LEVEL OK  |
-| 30° - 45°  | Blue  | ATTENTION |
-| 45° - 60° | Red   | DANGER    |
-| > 60°     | Red   | ALARM     |
+| < 25°      | Green | LEVEL OK  |
+| 25° - 35°  | Blue  | ATTENTION |
+| 35° - 40° | Red   | DANGER    |
+| > 40°     | Red   | ALARM     |
 
 ## Libraries
 - MPU6050 — Jeff Rowberg (i2cdevlib)
